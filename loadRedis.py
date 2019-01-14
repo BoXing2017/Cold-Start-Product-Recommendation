@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# @Author: Akhil Gupta
-# @Date:   2016-06-30
-# @Email: akhilgupta.official@gmail.com 
-# @Github Username: codeorbit
+
 
 import ast
 import redis
