@@ -1,6 +1,4 @@
-# Dumping Gensim Model data to a JSON file
-# Original Author: Phi Van Thuy 
-# Modified By: Vinay Kumar 
+
 from gensim.models import Word2Vec
 
 #Trained model
